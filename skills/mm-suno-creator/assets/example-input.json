@@ -1,0 +1,22 @@
+{
+  "brief": {
+    "主题": "凌晨雨夜收到旧消息",
+    "语言": "中文",
+    "曲风主轴": "folk pop",
+    "人声": "warm baritone",
+    "目标时长": "3 分钟以内"
+  },
+  "lyrics": "[Verse]\n雨落在末班车的窗\n你的名字忽然亮\n\n[Chorus]\n别说回来 先让我想一想\n天快亮了 我还没关上窗",
+  "styles": {
+    "concise": "folk pop, warm baritone, acoustic guitar, intimate vocal",
+    "standard": "melancholic folk pop, warm baritone, intimate vocal, acoustic guitar, gradual build, short intro, early chorus"
+  },
+  "exclude": "rap, aggressive shout vocal, long instrumental intro",
+  "parameters": {
+    "Style Influence": "偏中高，以稳定执行民谣流行主轴；按当前界面可用范围调整。",
+    "Weirdness": "偏低到中等，先保结构与咬字；实验版另存。"
+  },
+  "tag_notes": ["folk pop：民谣叙事与流行结构结合。", "warm baritone：温暖、较低重心的男声目标。"],
+  "risks": ["副歌第二句较长，生成后核听换气。", "平台行为会变，不把参数方向视为固定数值。"],
+  "next_iteration": "若副歌不够抓耳，只缩短副歌第一句并保留其他变量。"
+}

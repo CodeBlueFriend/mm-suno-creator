@@ -1,0 +1,4 @@
+interface:
+  display_name: "MM Suno Creator"
+  short_description: "把歌曲创意整理成可执行、可检查的 Suno 创作生成包"
+  default_prompt: "Use $mm-suno-creator to turn my song idea into lyrics, styles, parameters, and a preflight review."
